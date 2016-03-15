@@ -9,6 +9,6 @@ To build:
 2. Build contianer - docker build -t rhel7/fusion
 3. Once complete, launch the container - docker run -d -P rhel7/fusion
 4. Verifiy the container is running - docker ps
-5. Connect to the web UI with a browser - http://<ip_addr>:port (you will see the tcp port mapped to the Solr port
+5. Connect to the web UI with a browser - http://ip_addr:port (you will see the tcp port mapped to the Solr port
 of 8764)
 6. Follow instructions in the browser
