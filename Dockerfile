@@ -2,8 +2,7 @@
 FROM rhel7:latest
 
 #Maintainer
-MAINTAINER Kiran Chitturi "kiran.chitturi@lucidworks.com" 
-MAINTAINER Glen Millard "gmillard@redhat.com" 
+MAINTAINER Kiran Chitturi "kiran.chitturi@lucidworks.com"
 
 #Environment Variables and Labels
 ENV FUSION_VERSION 2.2.0 
